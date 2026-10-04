@@ -19,3 +19,4 @@ if len(guess) == 4:
             Cows = Cows + 0
 
     st.write("Bulls: " + str(Bulls) + ", Cows:" + str(Cows))
+
